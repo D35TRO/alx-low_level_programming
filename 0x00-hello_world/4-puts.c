@@ -1,14 +1,10 @@
 #include <stdio.h>
 
-
-
 /**
 
- * main - Entry point
+ * Description: main - Prints out a string to stdout.
 
- * puts message
-
- * Return: 0
+ * Return: 0 if success.
 
  */
 
