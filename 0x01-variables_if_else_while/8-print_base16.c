@@ -4,7 +4,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{  
+{
 char base_16; /*Decarling statement*/
 /*for base 16 0-9*/
 for (base_16 = 48; base_16 <= 57; base_16++)
